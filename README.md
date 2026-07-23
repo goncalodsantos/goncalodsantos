@@ -24,7 +24,7 @@
 
 ### 📫 Connect with me
 - **Email:** goncalopikin@gmail.com
-- **LinkedIn:** [linkedin.com/in/teu-perfil]([https://linkedin.com](https://www.linkedin.com/in/gon%C3%A7alodsantos/))
+- **LinkedIn:** [goncalodsantos](https://www.linkedin.com/in/gon%C3%A7alodsantos/)
 
 <!--
 **goncalodsantos/goncalodsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
