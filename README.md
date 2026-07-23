@@ -1,7 +1,7 @@
 # Hi there, I'm Gonçalo Santos 👋
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** [VLA humanoid fine-tuning master thesis]
+- 🔭 **Currently working on:** VLA humanoid fine-tuning master thesis
 - 🎓 **Education:** Master's student in Control, Robotics and AI — *Instituto Superior Técnico*
 - 💡 **Interests:** Robotics, Computer Vision, AI/ML, autonomous systems
 
