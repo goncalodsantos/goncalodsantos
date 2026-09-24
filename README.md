@@ -1,13 +1,13 @@
 # Hi there, I'm Gonçalo Santos 👋
 
-### 🚀 About Me
-- 🔭 **Currently working on:** VLA humanoid fine-tuning master thesis
-- 🎓 **Education:** Master's student in Control, Robotics and AI — *Instituto Superior Técnico*
-- 💡 **Interests:** Robotics, Computer Vision, AI/ML, autonomous systems
+### About Me
+- **Currently working on:** VLA humanoid fine-tuning master thesis
+- **Education:** Master's student in Control, Robotics and AI — *Instituto Superior Técnico*
+- **Interests:** Robotics, Computer Vision, AI/ML, autonomous systems
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
