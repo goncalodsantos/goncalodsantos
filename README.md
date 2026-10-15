@@ -1,9 +1,9 @@
 # Hi there, I'm Gonçalo Santos 👋
 
 ### About Me
-- **Currently working on:** VLA humanoid fine-tuning master thesis
+- **Currently working on:** Teleoperation and VLA humanoid fine-tuning master thesis
 - **Education:** Master's student in Control, Robotics and AI — *Instituto Superior Técnico*
-- **Interests:** Robotics, Humanoids, Computer Vision, AI/ML/DL, autonomous systems
+- **Interests:** Robotics, Humanoids, Computer Vision, VLA models, autonomous systems
 
 ---
 
